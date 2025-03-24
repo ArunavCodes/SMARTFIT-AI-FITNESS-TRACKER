@@ -38,4 +38,20 @@ Execute the following command to start the application:
 3. **View Results**:
    - Results are displayed in message boxes and visualizations.
    - A detailed PDF report is generated and saved as `fitness_report.pdf`.
+
+## File Structure
+
+SMARTFIT-AI-FITNESS-TRACKER/
+├── models/                  # Pre-trained machine learning models
+│   ├── calories_model.pkl
+│   ├── bmi_model.pkl
+│   ├── heart_rate_model.pkl
+│   ├── running_speed_model.pkl
+│   └── scaler.pkl
+├── dist/                    # Executable files (if applicable)
+├── build/                   # Build artifacts (if applicable)
+├── app.py                   # Main application script
+├── README.md                # Project documentation
+└── requirements.txt         # List of dependencies
+
    
