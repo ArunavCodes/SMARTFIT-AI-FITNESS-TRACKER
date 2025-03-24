@@ -22,9 +22,20 @@ The **SMARTFIT AI Fitness Tracker** is a Python-based application designed to he
 
 2. **Install Dependencies**:
 Ensure you have Python 3.x installed. Then, install the required libraries:
-pip install pandas scikit-learn joblib matplotlib fpdf ttkbootstrap opencv-python
+-pip install pandas scikit-learn joblib matplotlib fpdf ttkbootstrap opencv-python
 
-3. **Run the Application**:
+4. **Run the Application**:
 Execute the following command to start the application:
-python app.py
+-python app.py
+
+## Usage
+1. **Input Your Data**:
+   - Enter your age, gender, height, weight, running time, running speed, distance, and heart rate using the sliders and input fields.
+
+2. **Get Predictions**:
+   - Click on the buttons to predict calories burned, calculate BMI, analyze workout intensity, and more.
+
+3. **View Results**:
+   - Results are displayed in message boxes and visualizations.
+   - A detailed PDF report is generated and saved as `fitness_report.pdf`.
    
