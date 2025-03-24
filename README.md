@@ -19,3 +19,12 @@ The **SMARTFIT AI Fitness Tracker** is a Python-based application designed to he
    ```bash
    git clone https://github.com/ArunavCodes/SMARTFIT-AI-FITNESS-TRACKER.git
    cd SMARTFIT-AI-FITNESS-TRACKER
+
+2. **Install Dependencies**:
+Ensure you have Python 3.x installed. Then, install the required libraries:
+pip install pandas scikit-learn joblib matplotlib fpdf ttkbootstrap opencv-python
+
+3. **Run the Application**:
+Execute the following command to start the application:
+python app.py
+   
