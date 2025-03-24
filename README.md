@@ -54,4 +54,24 @@ Execute the following command to start the application:
   - README.md
   - requirements.txt
 
+## Machine Learning Models
+The application uses the following pre-trained models:
+
+| Model Name             | Purpose                         |
+|------------------------|--------------------------------|
+| `calories_model.pkl`   | Predicts calories burned       |
+| `bmi_model.pkl`        | Calculates BMI                 |
+| `heart_rate_model.pkl` | Predicts workout intensity     |
+| `running_speed_model.pkl` | Predicts running speed  |
+| `scaler.pkl`          | Preprocesses input data        |
+
+## Future Work
+- **Wearable Integration**: Add support for devices like Fitbit and Apple Watch.
+- **Mobile Application**: Develop iOS and Android versions.
+- **Expanded Dataset**: Use a larger, more diverse dataset to improve model accuracy.
+- **Advanced Features**: Include meal tracking, hydration tracking, and sleep analysis.
+- **Cloud Integration**: Enable data synchronization across devices.
+
+
+
    
