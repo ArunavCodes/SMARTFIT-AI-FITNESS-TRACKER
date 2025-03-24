@@ -39,7 +39,7 @@ Execute the following command to start the application:
    - Results are displayed in message boxes and visualizations.
    - A detailed PDF report is generated and saved as `fitness_report.pdf`.
 
-## File Structure
+# File Structure
 
 SMARTFIT-AI-FITNESS-TRACKER/
 ├── models/                  # Pre-trained machine learning models
