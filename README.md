@@ -41,17 +41,17 @@ Execute the following command to start the application:
 
 # File Structure
 
-SMARTFIT-AI-FITNESS-TRACKER/
-├── models/                  # Pre-trained machine learning models
-│   ├── calories_model.pkl
-│   ├── bmi_model.pkl
-│   ├── heart_rate_model.pkl
-│   ├── running_speed_model.pkl
-│   └── scaler.pkl
-├── dist/                    # Executable files (if applicable)
-├── build/                   # Build artifacts (if applicable)
-├── app.py                   # Main application script
-├── README.md                # Project documentation
-└── requirements.txt         # List of dependencies
+- SMARTFIT-AI-FITNESS-TRACKER/
+  - models/
+    - calories_model.pkl
+    - bmi_model.pkl
+    - heart_rate_model.pkl
+    - running_speed_model.pkl
+    - scaler.pkl
+  - dist/
+  - build/
+  - app.py
+  - README.md
+  - requirements.txt
 
    
